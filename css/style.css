@@ -228,7 +228,7 @@
 }
 .partners{
     width: 1536px;
-    height: 400px;
+    height: 382px;
     text-align: center;
     font-family: 'Koulen', Courier, monospace;
 }
@@ -275,4 +275,140 @@
     border-radius: 100px;
     top: -335px;
     left: 400px;
+}
+.foot{
+    width: 1536px;
+    height: 277.5px;
+    background-color: #112B3C;
+}
+.foot1{
+    position: relative;
+    color: rgb(249, 235, 200);
+    top: 100px;
+    left: 150px;
+    height: 150px;
+    width: 150px;
+    text-align: left;
+}
+.footh{
+   
+    font-weight: bold;
+}
+.footi{
+    font-size: 14px; 
+}
+.foot11{
+    position: relative;
+    top: 20px;
+    
+}
+.foot12{
+    
+    position: relative;
+    top: 24px;
+}
+.foot13{
+    
+    position: relative;
+    top: 28px;
+}
+.foot2{
+    position: relative;
+    color: rgb(249, 235, 200);
+    top: -69px;
+    left: 300px;
+    height: 150px;
+    width: 150px;
+    text-align: left;
+}
+
+
+.foot21{
+    position: relative;
+    top: 20px;
+    
+    
+}
+.foot22{
+    
+    position: relative;
+    top: 22px;
+}
+.foot23{
+    
+    position: relative;
+    top: 24px;
+}
+.foot3{
+    position: relative;
+    color: rgb(249, 235, 200);
+    top: -221px;
+    left: 600px;
+    height: 150px;
+    width: 150px;
+    text-align: left;
+}
+
+
+.foot31{
+    position: relative;
+    top: 20px;
+    
+    
+}
+.foot32{
+    
+    position: relative;
+    top: 22px;
+}
+.foot33{
+    
+    position: relative;
+    top: 24px;
+}
+.copyright{
+    width: 158px;
+    position: relative;
+    top: -237px;
+    left: 980px;
+}
+.fb{
+    font-size: 52px;
+    position: relative;
+    height: 50px;
+    width: 50px;
+    top: -330px;
+    right: -890px;
+    border-radius: 44px;
+
+}
+.ins{
+    font-size: 52px;
+    position: relative;
+    height: 50px;
+    width: 50px;
+    top: -380px;
+    right: -980px;
+    border-radius: 44px;
+
+}
+.in{
+    font-size: 52px;
+    position: relative;
+    height: 50px;
+    width: 50px;
+    top: -430px;
+    right: -1070px;
+    border-radius: 44px;
+
+}
+.tw{
+    font-size: 52px;
+    position: relative;
+    height: 50px;
+    width: 50px;
+    top: -480px;
+    right: -1160px;
+    border-radius: 44px;
+
 }
