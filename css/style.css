@@ -85,12 +85,14 @@
 }
 
 #home {
+    height: 500px;
+    width: 1536px;
     font-family: 'Koulen', Courier, monospace;
     color: white;
     font-size: 25px;
     position: absolute;
     top: 145px;
-    left: 425px;
+
     text-align: center;
 }
 
@@ -410,5 +412,4 @@
     top: -480px;
     right: -1160px;
     border-radius: 44px;
-
 }
